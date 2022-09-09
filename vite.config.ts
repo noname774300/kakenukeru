@@ -15,9 +15,9 @@ export default defineConfig({
       registerType: "prompt",
       includeAssets: ["favicon.ico", "apple-touch-icon.png"],
       manifest: {
-        name: "cgl-boilerplate",
-        short_name: "cgl-boilerplate",
-        description: "cgl-boilerplate",
+        name: "kakenukeru",
+        short_name: "kakenukeru",
+        description: "kakenukeru",
         theme_color: "#cc144b",
         icons: [
           {
